@@ -1,0 +1,65 @@
+﻿  main.cpp
+C:\Users\saifs\OneDrive\Desktop\data\Maze.h(67,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\saifs\OneDrive\Desktop\data\Maze.h(250,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\saifs\OneDrive\Desktop\data\Maze.h(271,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\saifs\OneDrive\Desktop\data\Maze.h(323,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\saifs\OneDrive\Desktop\data\Maze.h(343,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\saifs\OneDrive\Desktop\data\Maze.h(349,38): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\saifs\OneDrive\Desktop\data\Maze.h(350,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saifs\OneDrive\Desktop\data\Maze.h(350,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saifs\OneDrive\Desktop\data\Maze.h(358,38): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\saifs\OneDrive\Desktop\data\Maze.h(359,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saifs\OneDrive\Desktop\data\Maze.h(359,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saifs\OneDrive\Desktop\data\Maze.h(364,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\saifs\OneDrive\Desktop\data\Maze.h(365,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saifs\OneDrive\Desktop\data\Maze.h(365,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saifs\OneDrive\Desktop\data\Maze.h(370,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\saifs\OneDrive\Desktop\data\Maze.h(371,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saifs\OneDrive\Desktop\data\Maze.h(371,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saifs\OneDrive\Desktop\data\reward.h(28,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\saifs\OneDrive\Desktop\data\reward.h(32,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saifs\OneDrive\Desktop\data\reward.h(32,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saifs\OneDrive\Desktop\data\reward.h(48,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\saifs\OneDrive\Desktop\data\reward.h(52,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saifs\OneDrive\Desktop\data\reward.h(52,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saifs\OneDrive\Desktop\data\reward.h(67,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\saifs\OneDrive\Desktop\data\reward.h(71,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saifs\OneDrive\Desktop\data\reward.h(71,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saifs\OneDrive\Desktop\data\reward.h(87,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\saifs\OneDrive\Desktop\data\reward.h(91,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saifs\OneDrive\Desktop\data\reward.h(91,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saifs\OneDrive\Desktop\data\reward.h(105,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\saifs\OneDrive\Desktop\data\reward.h(109,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saifs\OneDrive\Desktop\data\reward.h(109,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saifs\OneDrive\Desktop\data\player.h(15,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\saifs\OneDrive\Desktop\data\Enemy.h(14,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\saifs\OneDrive\Desktop\data\Enemy.h(18,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saifs\OneDrive\Desktop\data\Enemy.h(18,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saifs\OneDrive\Desktop\data\Game.h(25,10): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\saifs\OneDrive\Desktop\data\Game.h(37,10): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\saifs\OneDrive\Desktop\data\Game.h(193,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  data.vcxproj -> C:\Users\saifs\OneDrive\Desktop\data\x64\Debug\data.exe
